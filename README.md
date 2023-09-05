@@ -73,18 +73,16 @@ df.head()
 ![vision api logo](https://community.appinventor.mit.edu/uploads/default/optimized/3X/2/a/2ad031bc25a55c4d3f55ff5ead8b2de63cdf28bf_2_200x178.png)
 * 이미지 크기 조정 가능
 <p align="center">
-<img src="https://community.appinventor.mit.edu/uploads/default/optimized/3X/2/a/2ad031bc25a55c4d3f55ff5ead8b2de63cdf28bf_2_200x178.png" width="200/>
-</p>
+<img src="https://community.appinventor.mit.edu/uploads/default/optimized/3X/2/a/2ad031bc25a55c4d3f55ff5ead8b2de63cdf28bf_2_200x178.png" width="200/></p>
+  
+  * vision API는 특정 이미지를 인식하여 분류기능을 하는 인공지는 AIP이다 
 
-
-  * vision API는 특정 이미지를 인식하여 분류기능을 하는 
-    인공지는 AIP이다 
-
- * * *
 ### 2.2 네이버
- * * *
+
+* * * 
+
 ## 3.프로젝트_1 에서 활용해 볼 API 선정 및 설명
- * * *
+
 ### 3-1. 프로젝트 목표와 요구 사항 
 프로젝트의 목표와 필요한 기능에 맞는 API를 선택해야 한다. 
 예를 들어, 데이터 분석 프로젝트인 경우 데이터를 제공하는 API가 필요할 것이다
